@@ -1,0 +1,11 @@
+{
+    "version": "1.0.0",
+    "downloadUrl": "https://github.com/yourusername/yourrepo/releases/download/v1.0.0/update.zip",
+    "changelog": [
+        "Initial release",
+        "Added auto-updater",
+        "Added chat logging",
+        "Added message rotation"
+    ],
+    "releaseDate": "2024-03-20"
+} 
